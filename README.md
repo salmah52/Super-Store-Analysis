@@ -3,6 +3,8 @@
 # Background
 Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
 
+![127727120-a11f32fa-3042-4773-b54e-fd1a792fff2f](https://github.com/salmah52/Super-Store-Analysis/assets/44398948/513f7eec-2dc6-46f4-b4b4-8a17e7b24a18)
+
 # Business Task
 Analyse sales data and determine weak areas and opportunities to boost business growth.
 
